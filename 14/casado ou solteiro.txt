@@ -1,0 +1,23 @@
+Programa {
+
+Funcao inicio() {
+
+Caracter letra
+
+escreva(“Digite uma letra para informar o seu estado civil, S para solteiro(a) ou C para casado(a): “)
+
+leia(letra)
+
+se(letra == ‘S’){
+
+escreva(“Solteiro(a)!”)
+
+}senao se(letra == ‘C’){
+
+escreva(“Casado(a)!”)
+
+      }
+
+  }
+
+}

@@ -1,0 +1,25 @@
+Programa {
+
+Funcao inicio() {
+
+Inteiro idade
+
+escreva(“Informe a sua idade : “)
+
+leia(idade)
+
+se(idade >= 18){
+
+escreva(“Voce é maior de idade!”)
+
+}
+
+senao se(idade < 18){
+
+escreva(“Voce não pode dirigir!”)
+
+    }
+
+ }
+
+}
